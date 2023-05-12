@@ -1,2 +1,4 @@
 ola k ase
 bug corregido jiji
+
+aprendiendo a usar magierias del git
