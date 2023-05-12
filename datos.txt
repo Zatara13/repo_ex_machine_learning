@@ -1,3 +1,6 @@
 ola k ase
+bug corregido jiji
 
 algoritmo bien chido de clasificación aquí
+
+aprendiendo a usar magierias del git
